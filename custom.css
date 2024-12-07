@@ -1,0 +1,35 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #E68B67 !important;
+}
+
+.hero {
+    background-image: url('herobasketball.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: #FAF5E0 !important;
+}
+
+h1 {
+    font-size: 60px;
+    text-shadow: 2px 2px #E68B67;
+}
+
+h2 {
+    font-family: "Copperplate";
+    font-size: 40px;
+    text-shadow: 0.5px 0.5px #000000;
+}
+
+p {
+    font-family: "Garamound";
+}
